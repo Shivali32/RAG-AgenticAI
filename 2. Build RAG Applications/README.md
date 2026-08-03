@@ -2,6 +2,8 @@
 
 This directory contains implementations of Retrieval-Augmented Generation (RAG) systems, moving from fundamental LLM interactions and vector indexing to deployment with web interfaces.
 
+* **Key Technologies & Tools:** Python, LangChain, IBM Watsonx AI, ChromaDB, Hugging Face Sentence Transformers (`all-MiniLM-L6-v2`), LlamaIndex, Gradio
+
 ---
 
 ## 1. Fundamentals of RAG Systems (`rag_intro.ipynb`, `simple_llm.py`, `qabot.py`)
