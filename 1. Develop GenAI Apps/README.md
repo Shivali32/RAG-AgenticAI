@@ -2,6 +2,8 @@
 
 This directory contains implementation notebooks focusing on building generative AI applications using prompt engineering, context framing, and the LangChain framework.
 
+* **Key Technologies & Tools:** Python, LangChain, IBM Watsonx AI, PromptTemplates, ConversationChain, ConversationBufferMemory
+
 ---
 
 ## 1. In-Context Learning and Prompt Templates (`In-Context Learning and Prompt Templates-v3-GenAIcourse.ipynb`)
