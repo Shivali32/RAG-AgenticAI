@@ -6,7 +6,7 @@ This directory contains implementations of Retrieval-Augmented Generation (RAG) 
 
 ---
 
-## 1. Fundamentals of RAG Systems (`rag_intro.ipynb`, `simple_llm.py`, `qabot.py`)
+## 1. Fundamentals of RAG Systems (`rag_intro.ipynb`, `simple_llm.py`, `qabot.py`) 
 Covers the core architecture of Retrieval-Augmented Generation, including document processing, vector embeddings, and question-answering capabilities using Watsonx and ChromaDB.
 
 * **LLM Integration:** Direct integration with foundation models (`ibm/granite-13b-chat-v2`) via IBM Watsonx AI API for baseline text generation.
