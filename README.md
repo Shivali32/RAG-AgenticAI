@@ -1,4 +1,4 @@
-# Generative AI & RAG Projects Portfolio
+# Generative AI & RAG Projects
 
 This repository contains practical implementations, standalone scripts, and Jupyter notebooks covering Large Language Model (LLM) application development, Retrieval-Augmented Generation (RAG) architectures, vector database management, advanced retrieval strategies, and multimodal AI workflows.
 
