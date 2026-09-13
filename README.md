@@ -1,7 +1,6 @@
 # Generative AI, Advanced RAG & Agentic Systems
 
-This repository contains practical implementations, standalone scripts, and Jupyter notebooks covering Large Language Model (LLM) application development, Retrieval-Augmented Generation (RAG) architectures, vector database management, multi-agent frameworks, Model Context Protocol (MCP) integrations, and an end-to-end Capstone system.
-
+This repository contains practical implementations, standalone scripts, and Jupyter notebooks covering Large Language Model (LLM) application development, Retrieval-Augmented Generation (RAG) architectures, vector database management, multi-agent frameworks, and Model Context Protocol (MCP) integrations.
 ---
 
 ## Core Technologies & Toolstack
@@ -43,6 +42,7 @@ Provides a comparative multi-agent study implementing role-based task delegation
 
 ### 9. Build AI Agents using MCP
 Implements client-server architectures under the Model Context Protocol (MCP) using FastMCP: defining tools, resources, and prompt templates, handling STDIO/Streamable HTTP transports, and managing client-side filesystem roots and sampling callbacks.
-
+<!--
 ### 10. Capstone Project
 An end-to-end multi-agent and MCP intelligence system featuring automated unstructured data extraction with Pydantic JSON self-repair, an MCP server exposing California culinary datasets, and a full ReAct host agent ("Connoisseur Companion") integrated into a multi-tab Gradio chat application.
+-->
